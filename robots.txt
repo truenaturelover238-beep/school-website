@@ -1,0 +1,8 @@
+# robots.txt for Government High School Chak 237 JB
+# https://govt-high-school-chak-237-jb.netlify.app
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://govt-high-school-chak-237-jb.netlify.app/sitemap.xml
