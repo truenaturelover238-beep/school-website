@@ -4,5 +4,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap location
 Sitemap: https://ghs-chak-237.netlify.app/sitemap.xml
